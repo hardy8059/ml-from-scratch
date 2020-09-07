@@ -11,4 +11,4 @@ This repo implements machine learning algorithms from scratch without using ml l
     - [get_path.py]() - Implements different path variables which might be needed
     - [utilities.py]() - Implements helper functions.
 - [Dataset.md]() - Shows information about different datasets used.
-
+- [requirements.txt]() - Contains the packages used in the project.
